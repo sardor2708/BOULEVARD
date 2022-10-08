@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Light';
+    src: url(../fonts/Montserrat-Light.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Regular';
+    src: url(../fonts/Montserrat-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'SemiBold';
+    src: url(../fonts/Montserrat-SemiBold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'PR';
+    src: url(../fonts/ProstoOne-Regular.ttf) format('truetype');
+}
